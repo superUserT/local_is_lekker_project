@@ -101,30 +101,30 @@ deactivate
 Running the deactivate command will deactivate the currently active virtual environment, and you'll return to the global Python environment.
 
 ## Infrastructure
-
-Local_is_lekker_web_infrastructure.jpg
+[
+Local_is_lekker_web_infrastructure.jpg](https://drive.google.com/file/d/1exw0KQaW0DQ8Qke4HXsqkU69rHx2b9OX/view?usp=drive_link)
 
 ## Active Project Screenshots
 
 ### Home
 
-home.PNG
+[home.PNG](https://drive.google.com/file/d/1MvB7uaLEElOSKHrdhaDlzE-YSTF97D5W/view?usp=drive_link)
 
 ### Browse
 
-Browse.PNG
+[Browse.PNG](https://drive.google.com/file/d/1v7p7ZB30XARCxociVUOdP7PMT4_CN1EA/view?usp=drive_link)
 
 ### Sign Up
 
-sign up.PNG
+[sign up.PNG](https://drive.google.com/file/d/14tQuKkhUd_h7i7JdqhEbQZDhB8Tcwznf/view?usp=drive_link)
 
 ### Login
 
-login.PNG
+[login.PNG](https://drive.google.com/file/d/1zoW15LVVgvqe9A4ikZ_BcR1ZgXRvJNAQ/view?usp=drive_link)
 
 ### Admin Desktop
 
-Admin portal.PNG
+[Admin portal.PNG](https://drive.google.com/file/d/1gDqXaiL8-HAu2qqVKNAQvuzQal1c42TK/view?usp=drive_link)
 
 ## Authors
 
