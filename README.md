@@ -137,7 +137,3 @@ Thabiso Rantsho
 ## Bugs
 
 No known bugs at this time.
-
-## License
-
-Public Domain. No copy write protection.
