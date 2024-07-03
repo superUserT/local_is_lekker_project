@@ -10,22 +10,28 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 
 ## Installation
 
-* Clone this repository:
+- Clone this repository:
 
 ```
 git clone https://github.com/superUserT/local_is_lekker_project.git
 ```
 
-* Access Local_is_lekker directory:
+- Access Local_is_lekker directory:
 
 ```
 cd local_is_lekker
 ```
 
-* Install all dependancies:
+- Install all dependancies:
 
 ```
 pip install -r requirements.txt
+```
+
+Run Migrations for dababase
+
+```
+python manage.py migrate
 ```
 
 Run Local_is_lekker:
@@ -101,6 +107,7 @@ deactivate
 Running the deactivate command will deactivate the currently active virtual environment, and you'll return to the global Python environment.
 
 ## Infrastructure
+
 [
 Local_is_lekker_web_infrastructure.jpg](https://drive.google.com/file/d/1exw0KQaW0DQ8Qke4HXsqkU69rHx2b9OX/view?usp=drive_link)
 
