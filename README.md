@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Run Migrations for dababase
 
 ```
-python manage.py migrate
+python3 manage.py migrate
 ```
 
 Run Local_is_lekker:
