@@ -4,6 +4,8 @@ This is an online marketplace application for local businesses.
 
 Live site available at: <http://thabiso.pythonanywhere.com/>
 
+Local is Lekker is a Django-based online marketplace designed to connect local businesses with customers. It provides a platform where local vendors can showcase their products and services to a broader audience, enhancing community engagement and supporting local economies. The project emphasizes ease of use for both sellers and buyers, promoting a seamless online shopping experience while fostering a sense of community pride and support for local businesses.
+
 ## Environment
 
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
