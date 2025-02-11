@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["http://localislekkerproject-production.up.railway.app/", "127.0.0.1"]
 
+CSRF_TRUSTED_ORIGINS = ["http://localislekkerproject-production.up.railway.app/"]
+
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
@@ -76,6 +78,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'puddle.wsgi.application'
+
 
 
 # Database

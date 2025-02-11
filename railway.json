@@ -4,7 +4,7 @@
     "builder": "NIXPACKS"
   },
   "deploy": {
-    "startCommand": "python manage.py migrate && gunicorn local_is_lekker_project.wsgi:application --bind 0.0.0.0:8000",
+    "startCommand": "python manage.py migrate && gunicorn puddle.wsgi:application --bind 0.0.0.0:8000",
     "restartPolicyType": "ON_FAILURE",
     "restartPolicyMaxRetries": 10
   }
